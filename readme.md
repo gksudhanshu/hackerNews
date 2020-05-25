@@ -1,3 +1,6 @@
-open two terminal and keep running both server
-npm run webpack
-npm run dev
+# Hacker App
+###To run 
+- step-1: clone the repo. 
+- Step-2: npm i 
+- Step-3: run this - "server npm run webpack" 
+- Step-4: open anothe terminal and run - "npm run dev"
